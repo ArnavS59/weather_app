@@ -74,7 +74,7 @@ class _WeatherState extends State<Weather> {
                     style: TextStyle(
                         color: Colors.white,
                         fontSize: 14,
-                        fontWeight: FontWeight.bold),
+                        fontWeight: FontWeight.normal),
                   ),
                 ),
               ],
